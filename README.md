@@ -1,4 +1,4 @@
-# employee-manage
+# Employee-Manager
 
 React-Native App to Manage Employees
 
